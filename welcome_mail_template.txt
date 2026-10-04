@@ -1,0 +1,48 @@
+Dear $firstname,
+
+hello and welcome to the $course_name course!
+
+My name is Vojtěch Jindra and I will be your instructor for this course. I will work with you as a mentor while you learn using the course materials. I will do all that I can to make this experience enlightening and enjoyable for you.
+There are several ways in which you can get in touch with me:
+
+Preferably, send me an e-mail at vojtech.jindra@ctm-academy.org
+
+You can also leave me a message via the “Communication” section of the course.
+
+I can not hold regular office hours, but we can arrange a gMeet call whenever we need to communicate directly.
+
+In case of emergency you can also call me at +420737536400. Please always contact me right away if you have any problem or question so we can work through it together as soon as possible. You should hear from me in 2 working days at latest.
+
+Importantly, I would like to ask you to respond to this e-mail to verify your address. Feel free to add a few lines about yourself, your hobbies, experience with computers and programming and on-line learning so far and your motivation to start with this particular course.
+To get started with the course:
+
+Go to https://ctm.agilixbuzz.com and log in with your user name and password:
+
+User name: $username
+
+Password: $password
+
+You should definitely try to log in and explore the course as soon as you can!
+
+There is a blue question mark (in left down corner) with a “Help” tool to assist you with this.
+
+Click "Activities" at the left menu. You will find a tree of folders. The first one is "Welcome". There can be found basic information about the course and lessons, how to navigate through the course, syllabus and more useful information.
+
+Please read the "Syllabus" at the top of the course page with your family. You should also see due dates for particular activities and assessments.
+
+You will find several resources, together with quizzes and other graded assignments. Feel free to look around. In case you ever need additional assistance with learning the material, don't hesitate to ask me.
+As we know from previous years, our students tend to pass the courses with excellent marks. To achieve this, you are going to work very hard. To say that the course is challenging would be an understatement. Motivation, active participation, good time management skills, and self-discipline on your part will be necessary factors in helping you complete this course successfully.
+That is also why we have strict deadlines for each assessment and you are expected to finish them in time. The deadlines can be adjusted in certain situations, so do not hesitate to ask (in advance!). But be aware that there is simply not much room for any extension. It is very advisable to stay ahead of plan and keep some slack for sick-days. The best way to keep working continuously and regularly during your enrolment time is to literally write in fixed sessions in your weekly schedule (NOT on the last day before the deadlines).
+Since regular work and regular contact are so important, I would like to ask you to send me a regular summary every Sunday:
+
+What have you done that week?
+
+What do you plan to do next week?
+
+Did you encounter any trouble?
+
+Do you expect any challenges next week?
+
+This way I will know what are you up to. I will be at hand to help you out - with advice about programming, but also about time-management or other related issues, if you like.
+
+Sincerely,
